@@ -1,2 +1,3 @@
 # portfolio
-showcases contact info
+Showcases personal info.
+Author - Aishwarya Para
